@@ -1,4 +1,6 @@
-Оригинал https://www.youtube.com/watch?v=2ift8T7eVEo
+Оригинал: Егор Летов - Всё идёт по плану  
+https://www.youtube.com/watch?v=2ift8T7eVEo
+
 # Всё идёт по плану
 Мой закрытый ключ переломлен пополам,  
 А наш верный SSL почти издох.  
