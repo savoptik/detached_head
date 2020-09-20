@@ -35,3 +35,5 @@ NASA там обновляет роверы
 Не забыть работу  
 И летят проекты  
 По пайплайну в жопу
+
+[![Реализовано:](http://img.youtube.com/vi/4r1mMwYL0xk/0.jpg)](https://www.youtube.com/watch?v=4r1mMwYL0xk "youtube.com")
