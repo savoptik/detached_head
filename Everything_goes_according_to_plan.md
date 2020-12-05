@@ -40,3 +40,5 @@ https://www.youtube.com/watch?v=2ift8T7eVEo
 ТАм наверное вообще не надо митинг собирать.  
 Я очнулся средь диплоя и понял, что 
 Всё идёт пайплайном!  
+
+[![Реализовано:](http://img.youtube.com/vi/-Uzvu5HZHmY/0.jpg)](https://www.youtube.com/watch?v=-Uzvu5HZHmY "youtube.com")
